@@ -1,0 +1,32 @@
+# Core
+pandas>=2.2
+numpy>=1.26
+scipy>=1.13
+
+# Modeling / unsupervised learning
+scikit-learn>=1.5
+
+# Dimensionality reduction
+umap-learn>=0.5.6
+
+# Deep learning (autoencoder, Phase 3)
+tensorflow-cpu>=2.16
+
+# Visualization
+matplotlib>=3.9
+seaborn>=0.13
+plotly>=5.22
+
+# Config-driven ablation studies
+PyYAML>=6.0
+
+# Notebook
+jupyter>=1.0
+nbconvert>=7.16
+ipykernel>=6.29
+
+
+streamlit>=1.36
+
+# Testing
+pytest>=8.2
