@@ -89,7 +89,7 @@ pm-anomaly-detection/
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Ankit777767/pm-anomaly-detection
 cd pm-anomaly-detection
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
